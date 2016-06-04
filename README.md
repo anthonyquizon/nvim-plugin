@@ -1,6 +1,9 @@
 
 # NeoVim Plugin
 
+(^～^;)ゞ
+
+## TODO
 * search Ag
     * projects
     * history
