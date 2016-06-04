@@ -1,7 +1,6 @@
 
-# NeoVim Plugin
+# NeoVim Plugin  (^～^;)ゞ
 
-(^～^;)ゞ
 
 ## TODO
 * search Ag
